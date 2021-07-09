@@ -9,10 +9,6 @@
 #    Declaration of functions (if used)
 #    Main
 #    End
-
-
-$userName
-
 function getUser() {
 # Ask for user name
 echo $(tput setab 4)"Enter user name, or press enter for all."$(tput sgr 0)
