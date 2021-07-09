@@ -1,0 +1,20 @@
+denial   :1           :1               Tue Jul  6 17:11   still logged in
+denial   :1           :1               Tue Jul  6 10:26 - 17:09  (06:42)
+denial   :1           :1               Sun Jul  4 11:53 - down  (1+22:28)
+denial   :1           :1               Sun Jul  4 08:52 - 11:53  (03:00)
+denial   :1           :1               Sat Jul  3 19:23 - down   (13:28)
+denial   :1           :1               Sat Jul  3 19:11 - down   (00:11)
+denial   :1           :1               Fri Jul  2 13:08 - 19:10 (1+06:02)
+denial   :1           :1               Thu Jul  1 21:50 - crash  (15:18)
+
+wtmp begins Thu Jul  1 21:49:39 2021
+denial   :1           :1               Tue Jul  6 17:11   still logged in
+denial   :1           :1               Tue Jul  6 10:26 - 17:09  (06:42)
+denial   :1           :1               Sun Jul  4 11:53 - down  (1+22:28)
+denial   :1           :1               Sun Jul  4 08:52 - 11:53  (03:00)
+denial   :1           :1               Sat Jul  3 19:23 - down   (13:28)
+denial   :1           :1               Sat Jul  3 19:11 - down   (00:11)
+denial   :1           :1               Fri Jul  2 13:08 - 19:10 (1+06:02)
+denial   :1           :1               Thu Jul  1 21:50 - crash  (15:18)
+
+wtmp begins Thu Jul  1 21:49:39 2021
